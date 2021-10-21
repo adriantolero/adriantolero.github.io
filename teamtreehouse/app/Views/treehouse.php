@@ -16,7 +16,7 @@
                 <div class="row">
                     <div class="col-12 col-sm-12 col-md-12 hide-xs">
                         <h2 class="text-3-xs text-1-lg">
-                            <?= $h2 ?><!--Learn to code, design, and more-all on your own time-->
+                            <?= $h2 ?><!--Learn to code, design, and more-all on your own time--> 
                         </h2>
                     </div>
                 </div>
