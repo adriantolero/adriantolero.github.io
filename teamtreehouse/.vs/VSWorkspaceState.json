@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Views",
+    "\\app\\Views\\errors",
+    "\\app\\Views\\errors\\cli",
+    "\\app\\Views\\layouts",
+    "\\public",
+    "\\public\\assets",
+    "\\public\\assets\\plugins",
+    "\\public\\assets\\plugins\\scripts"
+  ],
+  "SelectedNode": "\\app",
+  "PreviewInSolutionExplorer": false
+}
