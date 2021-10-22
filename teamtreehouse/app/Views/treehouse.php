@@ -839,10 +839,10 @@
                 </div>
                 <div class="col-12">
                     <div class="d-flex justify-content-center">
-                        &copy; 2021 Treehouse Island, Inc. 
-                        <div class="mt-2">
-                            <p>Web developer: Adrian C. Tolero</p>
-                        </div>
+                        <p>&copy; 2021 Treehouse Island, Inc.</p> 
+                    </div>
+                    <div class="d-flex justify-content-center">
+                        <p>Web Developer: Adrian C. Tolero</p>
                     </div>
                 </div>
             </div>
