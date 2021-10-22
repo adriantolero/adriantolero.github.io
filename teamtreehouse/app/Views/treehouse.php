@@ -840,7 +840,9 @@
                 <div class="col-12">
                     <div class="d-flex justify-content-center">
                         &copy; 2021 Treehouse Island, Inc. 
-                        HEY HEY HEYEEE
+                        <div class="mt-2">
+                            <p>Web developer: Adrian C. Tolero</p>
+                        </div>
                     </div>
                 </div>
             </div>
