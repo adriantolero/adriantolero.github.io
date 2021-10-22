@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-    //Commiting in test-branch
+    //Commiting in test-branch 2
     
     $(".homepage-qa-border").click(function () {
 
