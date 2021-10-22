@@ -1,8 +1,10 @@
 $(document).ready(function () {
+
+    //Commiting in test-branch 2
     
     $(".homepage-qa-border").click(function () {
 
-        $(this).find(".rotate").toggleClass("down"); //puta naa raman diay Github update in Test branch Third Commit commit
+        $(this).find(".rotate").toggleClass("down"); 
      
     });
 });
