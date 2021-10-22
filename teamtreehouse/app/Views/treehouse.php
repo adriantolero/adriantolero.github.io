@@ -840,7 +840,7 @@
                 <div class="col-12">
                     <div class="d-flex justify-content-center">
                         &copy; 2021 Treehouse Island, Inc. 
-                        HEY
+                        HEY HEY HEYEEE
                     </div>
                 </div>
             </div>
