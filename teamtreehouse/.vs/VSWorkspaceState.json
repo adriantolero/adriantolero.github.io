@@ -3,13 +3,13 @@
     "",
     "\\app",
     "\\app\\Views",
-    "\\app\\Views\\errors\\cli",
     "\\app\\Views\\layouts",
     "\\public",
     "\\public\\assets",
     "\\public\\assets\\plugins",
+    "\\public\\assets\\plugins\\css",
     "\\public\\assets\\plugins\\scripts"
   ],
-  "SelectedNode": "\\app\\Views\\treehouse.php",
+  "SelectedNode": "\\public\\assets\\plugins\\scripts\\main.js",
   "PreviewInSolutionExplorer": false
 }
